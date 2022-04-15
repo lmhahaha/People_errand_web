@@ -10,7 +10,7 @@
 
 ![image](https://user-images.githubusercontent.com/80510621/163552442-54d4288d-edcb-48b9-addc-4a2b75bcd9eb.png)
 * 下方為「員工資料」列表
-![image](https://user-images.githubusercontent.com/80510621/163555229-66925e25-fac0-471c-9a32-454dc115f99b.png)
+![image](員工詳細資料.JPG "員工詳細資料.JPG")
 * 點擊編輯可查看員工詳細資料，也可進行修改
 
 ### 打卡紀錄
@@ -20,7 +20,7 @@
 ### 公出管理
 ![image](https://user-images.githubusercontent.com/80510621/163553064-cc8afed4-70b3-459f-9aea-dd775a0e8849.png)
 * 可篩選員工的公出紀錄，也可查看員工的公出情形，點擊資料列可查看員工的公出時間及地點
-![image](https://user-images.githubusercontent.com/80510621/163553282-f70db0b8-e0d6-4444-9531-5bd6d205fe53.png)
+![image](公出詳細記錄.JPG "公出詳細記錄.JPG")
 
 ### 請假紀錄
 ![image](https://user-images.githubusercontent.com/80510621/163553367-496534be-c6d9-436b-aca3-6c5b0f81c7a1.png)
@@ -33,7 +33,7 @@
 ### 系統設定
 ![image](https://user-images.githubusercontent.com/80510621/163554252-203dfce7-82b9-4b2b-8546-0a009d004e44.png)
 * 可更改部門設定、職稱設定、公司打卡位置設定，管理員也可於此處修改密碼
-![image](https://user-images.githubusercontent.com/80510621/163554444-60b66c0f-ba00-48ad-b805-f25e87451101.png)
+![image](其他設定.JPG "其他設定.JPG")
 * 另提供其他設定，上下班時間設定
 
 ### 權限設定
